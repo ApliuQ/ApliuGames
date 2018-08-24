@@ -1,0 +1,21 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/7XI_YBB/obj
+/7XI_YBB/bin/Debug
+/eluosi/obj
+/eluosi/bin/Debug
+/FangGan/obj
+/FangGan/bin/Debug
+/Game2048/obj
+/Game2048/bin/Debug
+/lianliankan/obj
+/lianliankan/bin/Debug
+/tanchishe/obj
+/tanchishe/bin/Debug
+/tiaoyitiao/bin/Debug
+/tiaoyitiao/obj
+/xiaoxiaole/obj
+/xiaoxiaole/bin/Debug
